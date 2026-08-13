@@ -14,8 +14,8 @@ export interface Wallpaper {
   format: string;
   cdnUrl: string;
   cdnFallbackUrl: string;
-  thumbPath: string;
-  blurDataUrl: string;
+  thumbUrl: string;
+  blurDataUrl?: string;
 }
 
 interface Props {
@@ -24,8 +24,7 @@ interface Props {
 }
 
 const { wallpaper, index } = Astro.props;
-const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
-const thumbUrl = `${baseUrl}/${wallpaper.thumbPath}`;
+const thumbUrl = wallpaper.thumbUrl || wallpaper.cdnUrl;
 ---
 
 <div
@@ -36,13 +35,10 @@ const thumbUrl = `${baseUrl}/${wallpaper.thumbPath}`;
   data-wallpaper={JSON.stringify(wallpaper)}
   style={`aspect-ratio: ${wallpaper.aspectRatio};`}
 >
-  <!-- Blur-up base64 placeholder background -->
-  <div
-    class="absolute inset-0 bg-cover bg-center blur-lg scale-110 opacity-70 transition-opacity duration-500"
-    style={`background-image: url('${wallpaper.blurDataUrl}');`}
-  ></div>
+  <!-- Background shimmer/muted state -->
+  <div class="absolute inset-0 bg-[var(--muted)]"></div>
 
-  <!-- Actual WebP Thumbnail -->
+  <!-- Actual WebP Thumbnail (Served via CDN on-the-fly resizer) -->
   <img
     src={thumbUrl}
     alt={wallpaper.title}
