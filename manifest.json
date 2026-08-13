@@ -14,8 +14,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/abstract-dark.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/abstract-dark.png",
-    "thumbPath": "thumbnails/abstract-dark_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRiYAAABXRUJQVlA4IBoAAAAwAQCdASoQAAkABUB8JaQAA3AA/vAA0AAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fabstract-dark.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-chromatic-waves",
@@ -32,8 +32,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/chromatic-waves.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/chromatic-waves.png",
-    "thumbPath": "thumbnails/chromatic-waves_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAkABUB8JbACdAD8YFkwVQMAAMxLEqsL3jDOrns4L4QvffdaPnTUBPh2DsRSPC6++IpEXpD/p31ef4+tglAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fchromatic-waves.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-color-wall",
@@ -50,8 +50,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/color-wall.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/color-wall.jpg",
-    "thumbPath": "thumbnails/color-wall_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAkABUB8JagCdADiaFBfg9gA+juzWnEOUPc/Q45+0x3IQCD9VqcP7uGZ/4RLjKAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcolor-wall.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-colored-silence",
@@ -68,8 +68,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/colored-silence.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/colored-silence.jpg",
-    "thumbPath": "thumbnails/colored-silence_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAkABUB8JbACdAEPO/x6PoAA/nNA1hd6LenVyGE9Q4W1kGkZqxUBax96PAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcolored-silence.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-dark-waves",
@@ -86,8 +86,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/dark-waves.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/dark-waves.jpg",
-    "thumbPath": "thumbnails/dark-waves_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABwAQCdASoQAAkABUB8JTDwKaAUQAD+7rTgMHMDT8Ik7qgWnTFv4AAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fdark-waves.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-emergence",
@@ -104,8 +104,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/emergence.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/emergence.jpg",
-    "thumbPath": "thumbnails/emergence_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAkABUB8JZwAD4AMDS3cIAAA/vK0vRLLQWivZoYrRxz3QlSpbx+gsTFtJoIcgAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Femergence.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-frequency",
@@ -122,8 +122,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/frequency.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/frequency.jpg",
-    "thumbPath": "thumbnails/frequency_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAkABUB8JZwAAuRunEGQAAD+8qqraRys6Gw4txjvFc6+ekHAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ffrequency.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-geometric-abstract",
@@ -140,8 +140,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/geometric-abstract.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/geometric-abstract.jpg",
-    "thumbPath": "thumbnails/geometric-abstract_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAQCdASoQAAkABUB8JZQAAudI6ZuAAP7ysbmEMVD0r+TSXT1a7IAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fgeometric-abstract.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-headphones-paint-color-splash",
@@ -158,8 +158,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/headphones-paint-color-splash.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/headphones-paint-color-splash.jpg",
-    "thumbPath": "thumbnails/headphones-paint-color-splash_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAkABUB8JbACdADHzWLAAP7acn4OzmQpkxR04cJapzxbRqkdvWM9TkcR6gAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fheadphones-paint-color-splash.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-liquid-1",
@@ -176,8 +176,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/liquid1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/liquid1.jpg",
-    "thumbPath": "thumbnails/liquid1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoQAAkABUB8JYwAAu1dcQAA/u8s+cbam6gr3OCDmrRxPsBQaroPEualbnfRYe3wLMAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fliquid1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-liquid-2",
@@ -194,8 +194,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/liquid2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/liquid2.jpg",
-    "thumbPath": "thumbnails/liquid2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAkABUB8JQBOiP/xam+uwAAA/r3ZD3u9nZkCirESTimv+vstOkEYo+pZGHj9yEFYF27xan0cM7zMHYNEaNICEEUrlIigAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fliquid2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-minimal-boxes",
@@ -212,8 +212,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/minimal-boxes.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/minimal-boxes.jpg",
-    "thumbPath": "thumbnails/minimal-boxes_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAkABUB8JbACdADZjhfmAAD+uwa4PTBlCnoUm+/xg7G2f5aNVALBYdDUR4b/kR/lmYNgsV5dcaHgAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fminimal-boxes.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-molten-veins",
@@ -230,8 +230,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/molten_veins.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/molten_veins.png",
-    "thumbPath": "thumbnails/molten_veins_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRiwAAABXRUJQVlA4ICAAAAAwAQCdASoQAAkABUB8JZwAA3AA/vBa9HeVQmAhzQUAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmolten_veins.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-plasmawaves",
@@ -248,8 +248,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/plasmawaves.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/plasmawaves.png",
-    "thumbPath": "thumbnails/plasmawaves_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAkABUB8JYgCdADOhiGgAADiKMS+hhHuxE4LMu93KWu5ntlq9TAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fplasmawaves.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-room-dark",
@@ -266,8 +266,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/room-dark.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/room-dark.png",
-    "thumbPath": "thumbnails/room-dark_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAcABUB8JZQC7AELVZvaR4AA/upIGkRAQEEq5PBni3V+UMYj4aiGdnSOyAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Froom-dark.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-shard-window-dark",
@@ -284,8 +284,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/shard-window-dark.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/shard-window-dark.png",
-    "thumbPath": "thumbnails/shard-window-dark_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkABUB8JbACdAEORhIJ4AD+7ti5nlA4DsrDavFBd7vxnwRvprqy8756oOQ2fC5WwAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fshard-window-dark.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-solitary-glow",
@@ -302,8 +302,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/Solitary-Glow.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/Solitary-Glow.png",
-    "thumbPath": "thumbnails/Solitary-Glow_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACQAQCdASoQAAoABUB8JQBOgB3Q5qgA/oDf69RePDrR6yooOGdV5NYAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2FSolitary-Glow.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "abstract-the-last-light",
@@ -320,8 +320,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/the-last-light.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/the-last-light.png",
-    "thumbPath": "thumbnails/the-last-light_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAAkABUB8JbACdADpiVwwAP7qMuFUtUDpZuQCVOeuAm9qQTSHflI8eDF5omOCeixHYNui0R14flCLwHauTxIAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fthe-last-light.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "anime-anime-1",
@@ -338,8 +338,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/anime1.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/anime1.png",
-    "thumbPath": "thumbnails/anime1_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAkABUB8JbACdAERHz+HcaAIAP7jhY6iEdmJPosRU56+d+bbOS4s5OJbCnDeco6XRm8Az8mj836uamVEoAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fanime1.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "anime-anime-2",
@@ -356,8 +356,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/anime2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/anime2.jpg",
-    "thumbPath": "thumbnails/anime2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAcABUB8JZACdACeeq8IAAD94mVJ1VreDafLGhFiGFL1oHLMMClLZYjJWAQum+FItW7RE6U24pRNAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fanime2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "anime-anime-3",
@@ -374,8 +374,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/anime3.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/anime3.png",
-    "thumbPath": "thumbnails/anime3_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAkABUB8JagCdAEN4IN6bgAA/tjpHX0lR2hLKidkBSRabwcNUNlmL7FoAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fanime3.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "anime-japanese-1",
@@ -392,8 +392,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/japanese1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/japanese1.jpg",
-    "thumbPath": "thumbnails/japanese1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAkABUB8JQBOgBb1zZGQaAD+tfsmpHih6z5m/9qeuDRRqh3xx4/x9Hprmmn6IYHjX57lIYHNgwAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fjapanese1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "anime-japanese-2",
@@ -410,8 +410,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/japanese2.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/japanese2.png",
-    "thumbPath": "thumbnails/japanese2_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQAAkABUB8JZQAAwin+I7ZbIAgAOJ+rttJOlVuwsz26HZwMO9u0jnEWuUpQ4A2JcrT5Z0SDBtTWAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fjapanese2.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "anime-japanese-3",
@@ -428,8 +428,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/japanese3.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/japanese3.jpg",
-    "thumbPath": "thumbnails/japanese3_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAAkABUB8JagCdABNDAAA/lvtJAUbcVaL3AzcZhYXGOOZJocSreLN1PqnVkVtZOdj7hwA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fjapanese3.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cars-vehicles-retro-race",
@@ -446,8 +446,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/retro-race.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/retro-race.jpg",
-    "thumbPath": "thumbnails/retro-race_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAkABUB8JbACdAEebbQA9sAAAP6tOW/+zV1lpLpE75WTvyqxhymiqq9wr13W8ZVRFQV1diAJYjq8h3L69HI37qkrO0sAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fretro-race.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cars-vehicles-retro-truck",
@@ -464,8 +464,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/retro-truck.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/retro-truck.png",
-    "thumbPath": "thumbnails/retro-truck_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAkABUB8JQBadBZr90rUAAD7BRP4GJMxBrZvUw3OBWG1jSictlMz0M1UeHSAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fretro-truck.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-city-from-above",
@@ -482,8 +482,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/city-from-above.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/city-from-above.jpg",
-    "thumbPath": "thumbnails/city-from-above_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoQAAsABUB8JZwAAtvBVkJRUAAA/unEJZZVvLu7+v0Ic1m8wBlOkC7YQAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcity-from-above.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-city-rain",
@@ -500,8 +500,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/city-rain.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/city-rain.png",
-    "thumbPath": "thumbnails/city-rain_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAkABUB8JZwAAq9fMolaAAD+8N8JLgY//pwffSLaKCqTB8azR9mFMAAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcity-rain.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-city-skyline",
@@ -518,8 +518,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/city-skyline.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/city-skyline.jpg",
-    "thumbPath": "thumbnails/city-skyline_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoQAAkABUB8JYgCdADdKO0i/uwAAP6fCO2oziOQL7DsUJzyS1z8HeQMvhXs1dECfi022D1onQkWwZ7+iAAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcity-skyline.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-escape-velocity",
@@ -536,8 +536,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/escape_velocity.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/escape_velocity.jpg",
-    "thumbPath": "thumbnails/escape_velocity_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAcABUB8JQBOgCHXV1BAAP7a1hTD8/ZNScqBSeRmY3n0KI2XaFRg4uoA18AA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fescape_velocity.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-house-1",
@@ -554,8 +554,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/house1.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/house1.png",
-    "thumbPath": "thumbnails/house1_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAkABUB8JQBOgBszGvPQAP7Qhbea8Gw0i+bPjFJOt1MGSh60hdRNcEwzQZqP1b09hC2wAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fhouse1.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-marina-bay-sands",
@@ -572,8 +572,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/marina-bay-sands.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/marina-bay-sands.png",
-    "thumbPath": "thumbnails/marina-bay-sands_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JYgCdAEGfFVuAAD+PGk/+fXn9XeziNRnuuKcKaa61Y7wmZILPFGZWjk4AA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmarina-bay-sands.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-minimal-beton-building",
@@ -590,8 +590,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/minimal-beton-building.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/minimal-beton-building.jpg",
-    "thumbPath": "thumbnails/minimal-beton-building_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAcABUB8JZQCw7ELVZvcneAA/upIGkRAQEEq5PBni3V+UMYj4akYWeJFAAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fminimal-beton-building.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-night-city",
@@ -608,8 +608,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/night_city.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/night_city.jpg",
-    "thumbPath": "thumbnails/night_city_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAAAwAQCdASoQAAkABUB8JZwAA3AA/u/oYqjFXGt6AW36GHIoAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fnight_city.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-nocturne-of-steel-and-glass",
@@ -626,8 +626,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/Nocturne-of-Steel-and-Glass.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/Nocturne-of-Steel-and-Glass.png",
-    "thumbPath": "thumbnails/Nocturne-of-Steel-and-Glass_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAoABUB8JYwC7ADsgqAAAP6/d93E6uv2TabmbMB3K1/HAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2FNocturne-of-Steel-and-Glass.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-orange-tower",
@@ -644,8 +644,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/orange-tower.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/orange-tower.jpg",
-    "thumbPath": "thumbnails/orange-tower_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAkABUB8JZgCdADGGX7bwAD+wDe/WwW7WPcc+6poZW/SwuwmEzQDxRuXmZbRUTmkA5FIep58rj4riAAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Forange-tower.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-river-to-castle-theme-blue",
@@ -662,8 +662,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/river_to_castle_theme_blue.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/river_to_castle_theme_blue.jpg",
-    "thumbPath": "thumbnails/river_to_castle_theme_blue_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAkABUB8JbACdAD1RUVYAAD9nQMiQRFamWoXxlN7CekoFDrpwnt8jZSCL9c7Vo/B/KUy+67V5/0G0QAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Friver_to_castle_theme_blue.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-street-1",
@@ -680,8 +680,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/street1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/street1.jpg",
-    "thumbPath": "thumbnails/street1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAgABUB8JYwC7AEOJPb8AAD+7K++ZAlIISiKjFCl8NFX0ehDvSAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fstreet1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-street-2",
@@ -698,8 +698,8 @@
     "format": "GIF",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/street2.gif",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/street2.gif",
-    "thumbPath": "thumbnails/street2_gif.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAABQAQCdASoQAAkABUB8JQBOgCgAAP7vfM9fExsw5NhW7E0ixvn7A5IAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fstreet2.gif&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-tower-night",
@@ -716,8 +716,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/tower-night.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/tower-night.png",
-    "thumbPath": "thumbnails/tower-night_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAkABUB8JagCdAEO4/L6jAAA/nkn78ezWM/vWs9Xd7G+q+h1xaJpknxpAAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ftower-night.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "city-architecture-watchtower-mountains-and-forests",
@@ -734,8 +734,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/watchtower-mountains-and-forests.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/watchtower-mountains-and-forests.jpg",
-    "thumbPath": "thumbnails/watchtower-mountains-and-forests_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAkABUB8JZgCdAEOzkGzgADynhbdFWL7JvbMBwAQ1sQXEtsUgusdGAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fwatchtower-mountains-and-forests.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-3-d-tech",
@@ -752,8 +752,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/3d-tech.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/3d-tech.jpg",
-    "thumbPath": "thumbnails/3d-tech_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAkABUB8JYwAAudcuMmYAAD+8L3Ur9cfv6oQ+V5QpiU/imFfBA2sOBYAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2F3d-tech.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-building-cyber",
@@ -770,8 +770,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/building_cyber.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/building_cyber.jpg",
-    "thumbPath": "thumbnails/building_cyber_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAkABUB8JQBOj+ACde+CJgAA/u6bvsj566C0KL6hOOaqDVawUTGvuSWWeQAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fbuilding_cyber.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-cyberpunk",
@@ -788,8 +788,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/cyberpunk.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/cyberpunk.png",
-    "thumbPath": "thumbnails/cyberpunk_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAABQAQCdASoQAAkABUB8JZwABDOAAP7wsrzXugQAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcyberpunk.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-cyberpunk-1",
@@ -806,8 +806,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/cyberpunk1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/cyberpunk1.jpg",
-    "thumbPath": "thumbnails/cyberpunk1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAkABUB8JbACdAEQEoGSpAAA/trGebtBxbCZk1B67khnUh9IH7ouuBzhvOCkQlf19IzH0S3DnkUHQ3YPa6FEgh4AAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcyberpunk1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-cyberpunk-2-drive",
@@ -824,8 +824,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/cyberpunk2-drive.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/cyberpunk2-drive.jpg",
-    "thumbPath": "thumbnails/cyberpunk2-drive_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAkABUB8JaACdADDn96AAP7cYLRt1Eusg9FvoHY10WBAEpjk+w+tX2cyAYAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcyberpunk2-drive.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-cyberpunk-3-drive",
@@ -842,8 +842,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/cyberpunk3-drive.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/cyberpunk3-drive.jpg",
-    "thumbPath": "thumbnails/cyberpunk3-drive_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkABUB8JbACdAEQczmJEUAA/rN5OF4/4tI1T/17YGf+8zGBxpnGupq2r6TX+dwHo4vEu906JheoGAAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcyberpunk3-drive.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-explorer-robot",
@@ -860,8 +860,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/explorer-robot.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/explorer-robot.png",
-    "thumbPath": "thumbnails/explorer-robot_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAgABUB8JbACdAEJ8/Q3vMAA/pbfEzEtv2rN/lxjEJNnNWFZUyLT5upzKSgb1hjvKIL4AAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fexplorer-robot.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-landscape-abstract-neon",
@@ -878,8 +878,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/landscape-abstract-neon.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/landscape-abstract-neon.jpg",
-    "thumbPath": "thumbnails/landscape-abstract-neon_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAkABUB8JZwAApxkbKWPgAD+mCi4ozESO04+vNyevjEmK5SYK4AA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Flandscape-abstract-neon.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-neon-car",
@@ -896,8 +896,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/neon_car.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/neon_car.jpg",
-    "thumbPath": "thumbnails/neon_car_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JbACdADcrDG2oAD+vkjj8KExAexkrosK0DHz29rcYcwU4vI7CHb64IAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fneon_car.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-neon-office",
@@ -914,8 +914,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/neon_office.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/neon_office.jpg",
-    "thumbPath": "thumbnails/neon_office_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAgABUB8JZACdAEUpAaIRT1oAP5Am+RlxF2j1OKS5oJaocKv6XDPOZwCDxagoieUAAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fneon_office.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-robot-home",
@@ -932,8 +932,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/robot-home.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/robot-home.png",
-    "thumbPath": "thumbnails/robot-home_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAkABUB8JYwCw7DxNALYcAD+zPj7h5WOkoQ1taHtbZ7E6uulnQuaYy1jUwL7Bomr0CbWpdWN/NYQAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Frobot-home.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-tron-ares",
@@ -950,8 +950,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/tron-ares.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/tron-ares.jpg",
-    "thumbPath": "thumbnails/tron-ares_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAkABUB8JbACdAEW07JJr/AA9rx4/8kWlkgEFriImVDGv6xCUoAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ftron-ares.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-tron-legacy-1",
@@ -968,8 +968,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/tron_legacy1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/tron_legacy1.jpg",
-    "thumbPath": "thumbnails/tron_legacy1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoQAAkABUB8JQBdj+ACuK/AIUwAAP7p3R9GFpmp1BD5fARJ9rBcx2uUEJ7rEY54NjuGij6EAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ftron_legacy1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-tron-legacy-2",
@@ -986,8 +986,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/tron_legacy2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/tron_legacy2.jpg",
-    "thumbPath": "thumbnails/tron_legacy2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAkABUB8JbACdAEPDYdtswAA/u7wC5YAqgN8LSqJUMBEvTjoHZQFWUj5VGvCFBNahk8JzFE2jKM66i5hpawhlxnAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ftron_legacy2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-tron-legacy-4",
@@ -1004,8 +1004,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/tron_legacy4.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/tron_legacy4.jpg",
-    "thumbPath": "thumbnails/tron_legacy4_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAoABUB8JaACdAEfLEVLAAD+5FkZSeUzGkekyEJciVPN7uQHm8DtNAlFMNyuFFWJj0ZTAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ftron_legacy4.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "cyberpunk-tron-legacy-6",
@@ -1022,8 +1022,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/tron_legacy6.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/tron_legacy6.jpg",
-    "thumbPath": "thumbnails/tron_legacy6_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAoABUB8JbAC7AEQMNp2mAAA/uRrX5K5CIctkMpIFpM/Yrow3ciZu7LhmR0DYw7gK2j7yVd8E/D4AAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ftron_legacy6.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "games-movies-apex-octane",
@@ -1040,8 +1040,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/apex_octane.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/apex_octane.jpg",
-    "thumbPath": "thumbnails/apex_octane_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAkABUB8JaACw7EWtS/5lAAA/nh85hp5Rk8/ZklgOzmMEKsVPEZ2AgotjR+w/sB0IgoIAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fapex_octane.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "games-movies-bloodrock-steppes",
@@ -1058,8 +1058,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/bloodrock-steppes.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/bloodrock-steppes.png",
-    "thumbPath": "thumbnails/bloodrock-steppes_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAkABUB8JagCdAEClhnWE0AA/qyafEymG56KR2rD2CDrOP3ykHcLrhjq+utyL1aTgmwAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fbloodrock-steppes.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "games-movies-core-memory",
@@ -1076,8 +1076,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/core_memory.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/core_memory.jpg",
-    "thumbPath": "thumbnails/core_memory_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAkABUB8JZQAAuQ4QPcfAAD+6ecTu9fUnRArbsIHqXjOCzR0up3YNfMIAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcore_memory.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "games-movies-depechemode-violator",
@@ -1094,8 +1094,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/depechemode-violator.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/depechemode-violator.png",
-    "thumbPath": "thumbnails/depechemode-violator_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAkABUB8JbACdAC3atMpwAD+7Je0XyrOmcjG8PbN2fGaPxqZ9oohiEbYkelTjFqK1NJkw/AAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fdepechemode-violator.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "games-movies-enterprise-desert-crash",
@@ -1112,8 +1112,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/enterprise-desert-crash.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/enterprise-desert-crash.png",
-    "thumbPath": "thumbnails/enterprise-desert-crash_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAkABUB8JagCdADp/TdtQAD+sMRbPXcrt17DCDLTGersHZl5I8ss1Txef0+//JkMDjsbu/G82JAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fenterprise-desert-crash.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "games-movies-explorer-green-day",
@@ -1130,8 +1130,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/explorer_green_day.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/explorer_green_day.jpg",
-    "thumbPath": "thumbnails/explorer_green_day_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAkABUB8JYgCdAEUU4JAIcAA/eOv26U/K0qvWl9heDX3c/fO+Se1/n96LaMbAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fexplorer_green_day.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "games-movies-groot-1",
@@ -1148,8 +1148,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/groot_1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/groot_1.jpg",
-    "thumbPath": "thumbnails/groot_1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAABQAQCdASoQAAkABUB8JZwABDOAAP7wxlZs2AwIL+EgAAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fgroot_1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "games-movies-rocket-launch",
@@ -1166,8 +1166,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/rocket_launch.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/rocket_launch.jpg",
-    "thumbPath": "thumbnails/rocket_launch_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAcABUB8JZACsADiKwGrgAD91a5RczRl03CYr8gTc2AUnWMCmJpRT3mOi+AA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Frocket_launch.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "games-movies-rocky-land",
@@ -1184,8 +1184,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/rocky_land.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/rocky_land.jpg",
-    "thumbPath": "thumbnails/rocky_land_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAAkABUB8JQBOgCHEiliIAMpBjqLXyhmwJAvNxpr2tK8YnONLAAo5iNxYUXrIbgLegAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Frocky_land.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "games-movies-the-snap-hunt-camping",
@@ -1202,8 +1202,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/the-snap-hunt-camping.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/the-snap-hunt-camping.png",
-    "thumbPath": "thumbnails/the-snap-hunt-camping_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAkABUB8JaACdACRgt+AAP66KEBSkNTS4bhT+iKuUZnCVIo48Fqj4Eo1MuERVTgAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fthe-snap-hunt-camping.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-default",
@@ -1220,8 +1220,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/default.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/default.jpg",
-    "thumbPath": "thumbnails/default_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAAkABUB8JbACdAEUEBvAAP7kWmixli6ErvTrwOiCrRh7aAvD7mLwvNlAS5Dbjy/GtjO3FgjGGLJgyeurJMpGAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fdefault.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-fall-echo-tries",
@@ -1238,8 +1238,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/fall-echo-tries.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/fall-echo-tries.png",
-    "thumbPath": "thumbnails/fall-echo-tries_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoQAAkABUB8JYwC7AEPducXk3IgAPlvO94D7FPTzYmfdMGe75xt6QtbXgo6wEO7zY2UpPxoAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ffall-echo-tries.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-gdtography",
@@ -1256,8 +1256,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/gdtography.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/gdtography.jpg",
-    "thumbPath": "thumbnails/gdtography_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAACwAQCdASoQAAsABUB8JaQAAudVpvFQAP7qdUbdfiCYgAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fgdtography.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-golden-hours",
@@ -1274,8 +1274,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/golden-hours.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/golden-hours.png",
-    "thumbPath": "thumbnails/golden-hours_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAkABUB8JYwCdH8AE5huDcAA/uNFi0FVWyr17VAYtLqkSM61URyCcUxhVEtg5gAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fgolden-hours.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-honkadaloonga",
@@ -1292,8 +1292,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/honkadaloonga.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/honkadaloonga.png",
-    "thumbPath": "thumbnails/honkadaloonga_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAABwAQCdASoQAAkABwB8JYwC7AFAAAD+78hhMSVAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fhonkadaloonga.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-mystical-night-in-town",
@@ -1310,8 +1310,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mystical-night-in-town.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mystical-night-in-town.jpg",
-    "thumbPath": "thumbnails/mystical-night-in-town_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAkABUB8JQBdgCKq4R+PPoQA/uyv8124JAzyLxFbbM5oeAnYgpVkkIAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmystical-night-in-town.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-new-worlds",
@@ -1328,8 +1328,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/new-worlds.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/new-worlds.png",
-    "thumbPath": "thumbnails/new-worlds_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAkABUB8JaACdADp1ENesAD9eLW80vihXxK21XH8DjBmFSWZ/SV/bPIKg9vlT3qFwWiqWrhAXA6wAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fnew-worlds.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-no-mans-land",
@@ -1346,8 +1346,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/no-mans-land.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/no-mans-land.jpg",
-    "thumbPath": "thumbnails/no-mans-land_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoQAAkABUB8JagCdAEYES0cejSo4ADOPTokHLHLqGsuyFILSYYZQl0ZSmSQIP1FjQG4nCQR3g/Y3vNxdGJGSszs1kFgI4fAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fno-mans-land.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-northern-night",
@@ -1364,8 +1364,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/northern-night.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/northern-night.jpg",
-    "thumbPath": "thumbnails/northern-night_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkABUB8JZQAAxfs7kwIUAD+6aDFOXJAKrnEu3BP4K6MtPh5TSJ5t3hAqbQcuZOCBAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fnorthern-night.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-onyx-flow",
@@ -1382,8 +1382,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/onyx-flow.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/onyx-flow.png",
-    "thumbPath": "thumbnails/onyx-flow_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAABwAQCdASoQAAkABUB8JaQAAOqGAAD+hWxA9RBndeoeerDdmbb0+IdfWrbX396UiiRnTyP2zKtJuT8AAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fonyx-flow.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-orange-art",
@@ -1400,8 +1400,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/orange-art.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/orange-art.jpg",
-    "thumbPath": "thumbnails/orange-art_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAoABUB8JbACdAC6RaG1IAD6/i/yEPuzEr6ox3r6Iyf6/+COzumr9mokgAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Forange-art.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-pexels-robert-clark",
@@ -1418,8 +1418,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/pexels-robert-clark.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/pexels-robert-clark.jpg",
-    "thumbPath": "thumbnails/pexels-robert-clark_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JZACdAEPQ3dNoAAA/sB8ENhe4yGT97Z9eV3G+pgVUIoUlTgAmxIqgn+zzPov6EwAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fpexels-robert-clark.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-raw-expression",
@@ -1436,8 +1436,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/raw-expression.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/raw-expression.jpg",
-    "thumbPath": "thumbnails/raw-expression_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAABwAQCdASoQAAkABUB8JZAAAdwTYAD+7WAjo3/l+/Vd5CLLpUcbHGbUoOzpfJZMdb/fdf7olaAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fraw-expression.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-red-and-blue-pillars",
@@ -1454,8 +1454,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/red-and-blue-pillars.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/red-and-blue-pillars.jpg",
-    "thumbPath": "thumbnails/red-and-blue-pillars_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAoABUB8JbACdAD0WScjAAAAygqKRv0EeMwURj9sNaeqnM3390AA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fred-and-blue-pillars.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-snowy-peace",
@@ -1472,8 +1472,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/snowy-peace.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/snowy-peace.png",
-    "thumbPath": "thumbnails/snowy-peace_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAkABUB8JbACdADwc6Gdi4AA9XVLl1RjhBGbp45ADEnK7bDX5atsqnMU/iDtJXkzdL/JsaNOrmIAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsnowy-peace.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-sparkling-crystals",
@@ -1490,8 +1490,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sparkling-crystals.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sparkling-crystals.jpg",
-    "thumbPath": "thumbnails/sparkling-crystals_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAAkABUB8JbACdAClkpycAP6tK7KmAz+41hN7lj4eaMEtEwCvHtFyyd1yqOzmdpm+80A4wfkI3hvYmc9iuNMAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsparkling-crystals.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-spirited-away-1",
@@ -1508,8 +1508,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/spirited-away1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/spirited-away1.jpg",
-    "thumbPath": "thumbnails/spirited-away1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAkABUB8JbACdAD0SM0dQAD+t7JI0MhWnb7Z0boFlR5/LtaJIg21uCNU3w3fQ+SYp60bkH9OSAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspirited-away1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-suzume-1",
@@ -1526,8 +1526,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/suzume1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/suzume1.jpg",
-    "thumbPath": "thumbnails/suzume1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAgABUB8JQBOgBjSOsbPgAD+eJY4GD2obj0Iz6Xkf/wkWRHpf46vXmMUM+AA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsuzume1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-symmetry-in-the-stillness",
@@ -1544,8 +1544,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/symmetry-in-the-stillness.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/symmetry-in-the-stillness.jpg",
-    "thumbPath": "thumbnails/symmetry-in-the-stillness_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAkABUB8JQBOgBuKV5lAAADwP+cUPTN5K2Tn1Y2km9eOdOL+Z/Ro0JIwPJpWSk//Kab6u+JHeADkAWASEAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsymmetry-in-the-stillness.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-the-sphere",
@@ -1562,8 +1562,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/the-sphere.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/the-sphere.png",
-    "thumbPath": "thumbnails/the-sphere_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAcABUB8JbACdAC53YbiAAD94v3e90NLm3133LgCrLre/SoZPYqowMbsPnWFjcD+Ibow4hA8EPMAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fthe-sphere.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-vintage-ascent",
@@ -1580,8 +1580,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/vintage-ascent.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/vintage-ascent.jpg",
-    "thumbPath": "thumbnails/vintage-ascent_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAkABUB8JZACdACmOVMAAOJV/hi1cgwq9ALMdg+sltWggLhc7XuYY5LGvCAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fvintage-ascent.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-wallhaven-1",
@@ -1598,8 +1598,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/wallhaven1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/wallhaven1.jpg",
-    "thumbPath": "thumbnails/wallhaven1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAADQAQCdASoQAAsABUB8JYwCsAEf9q3wAAD98HNgjY8VbeqjiTCOJcAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fwallhaven1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-wallhaven-3",
@@ -1616,8 +1616,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/wallhaven3.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/wallhaven3.jpg",
-    "thumbPath": "thumbnails/wallhaven3_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAoABUB8JbACw8HAAwfqkHAA/I9d0k9wc/NWC0BKavLNZsgWcRs0lwkr8KOq+6w8gamFAAKD8zwgAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fwallhaven3.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "misc-wallhaven-4",
@@ -1634,8 +1634,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/wallhaven4.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/wallhaven4.jpg",
-    "thumbPath": "thumbnails/wallhaven4_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAsABUB8JZACdADdlGM7HAAA/uW9KO2QtnrfRsaRqeR1pi61/btHLDiPL+EmKkypiRlNGcMHwfmIAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fwallhaven4.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-aesthetic-deer",
@@ -1652,8 +1652,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/aesthetic_deer.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/aesthetic_deer.jpg",
-    "thumbPath": "thumbnails/aesthetic_deer_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABwAQCdASoQAAkABUB8JYgCdAFAAAD+7w1NSBoNdYpOewWmrLRpse1xNLDXsAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Faesthetic_deer.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-african-light",
@@ -1670,8 +1670,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/african-light.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/african-light.jpg",
-    "thumbPath": "thumbnails/african-light_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQAAkABUB8JZACdAEUpGj+RYRAAP3jr9m4L3MgimUgs1SiX1JTPFyf6tdWO7LHXLYwlOoVVSBZWAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fafrican-light.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-amazing-nature-mountain",
@@ -1688,8 +1688,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/amazing-nature-mountain.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/amazing-nature-mountain.jpg",
-    "thumbPath": "thumbnails/amazing-nature-mountain_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAAoABUB8JagC7ADYAgAA/uzXHXg6J+FLIq/NtE+aZSx/mkLCS+rey/jt9NdmqB6t3+AA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Famazing-nature-mountain.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-amber-island",
@@ -1706,8 +1706,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/amber-island.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/amber-island.jpg",
-    "thumbPath": "thumbnails/amber-island_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JZgAAtvSLLb+AAD+7FdzxeivUNbQXSrCPXA8fs08Xfi51AEM+g+Dx0WQAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Famber-island.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-autumnshues",
@@ -1724,8 +1724,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/autumns.hues.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/autumns.hues.png",
-    "thumbPath": "thumbnails/autumns_hues_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAkABUB8JQBOgCHgVxuEAAD+6fXL3IE6m03kRaoFYfdzmYl++oAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fautumns.hues.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-breathtaking-mountain-view",
@@ -1742,8 +1742,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/breathtaking-mountain-view.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/breathtaking-mountain-view.jpg",
-    "thumbPath": "thumbnails/breathtaking-mountain-view_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkABUB8JZwAAjxslEYPAAD+oSP81FCj3pZFX0LvJ3Cg5paBxL5b7nWlIAOkM8rwIAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fbreathtaking-mountain-view.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-catching-the-desert",
@@ -1760,8 +1760,8 @@
     "format": "JPEG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/catching-the-desert.jpeg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/catching-the-desert.jpeg",
-    "thumbPath": "thumbnails/catching-the-desert_jpeg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAkABUB8JbACdADp6iFw3AAA/b1DsK8KHTKEgXymV1PFJdEZkSAAPtxA8vrHKjfLGxk5gP1WZESZNvf4ijYU3fJ6pEd+WZC+OpHAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcatching-the-desert.jpeg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-copper-mountain",
@@ -1778,8 +1778,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/copper_mountain.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/copper_mountain.jpg",
-    "thumbPath": "thumbnails/copper_mountain_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAoABUB8JZQAAq2icFSQAAD4tLqli94xha/pc/rtK2Lx0jZR5Nm0S1mCkbGwAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcopper_mountain.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-deer-in-pine-forest",
@@ -1796,8 +1796,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/deer_in_pine_forest.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/deer_in_pine_forest.jpg",
-    "thumbPath": "thumbnails/deer_in_pine_forest_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACQAQCdASoQAAkABUB8JbACdACeUEAA/uoivNrogq+GWRnb5G9BSdbaLngCQQtJ0ldOrnVvyNCr0Rs8togbjgYAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fdeer_in_pine_forest.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-fantasy-autumn",
@@ -1814,8 +1814,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/Fantasy-Autumn.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/Fantasy-Autumn.png",
-    "thumbPath": "thumbnails/Fantasy-Autumn_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAABwAQCdASoQAAkABUB8JQAAT6UegAD6NRiZ9qPsp9YMr0YYpq1+UhK1HyxZqMfH1X99j8cDgAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2FFantasy-Autumn.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-fantasy-landscape-3",
@@ -1832,8 +1832,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/Fantasy-Landscape3.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/Fantasy-Landscape3.png",
-    "thumbPath": "thumbnails/Fantasy-Landscape3_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAkABUB8JZQC7ADveyyIAAD+qxrs0jxS10OpXtUx5emR9wVz6xQTx5pm7qFQtzKUesmTIQ4AAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2FFantasy-Landscape3.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-fantasy-mountain-1",
@@ -1850,8 +1850,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/fantasy-mountain1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/fantasy-mountain1.jpg",
-    "thumbPath": "thumbnails/fantasy-mountain1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAkABUB8JbACdAEVL/H9twAAAMyDtWqI8FE/X3JLkc5Mf0LSA9Q4FneLIHo1KQZ9Pxt7olAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ffantasy-mountain1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-fantasy-mountain-2",
@@ -1868,8 +1868,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/fantasy-mountain2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/fantasy-mountain2.jpg",
-    "thumbPath": "thumbnails/fantasy-mountain2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAkABUB8JbAC7AEf3Z0q26QA/uxA0RRkE+8Ic0eZCU9bqODBRZyCMLAmdqBimYYAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ffantasy-mountain2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-fantasy-mountain-3",
@@ -1886,8 +1886,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/fantasy-mountain3.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/fantasy-mountain3.jpg",
-    "thumbPath": "thumbnails/fantasy-mountain3_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAkABUB8JaACdAD5csp11wAA/qzN/+LKLM9uWXMLtU//jhD2mGCZj0rEaysTAyMb5SFugBH4lwAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ffantasy-mountain3.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-fish-2",
@@ -1904,8 +1904,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/fish_2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/fish_2.jpg",
-    "thumbPath": "thumbnails/fish_2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACQAQCdASoQAAoABUB8JZwAAudUwMAA/vQqb4ScAEBVOJ24noAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ffish_2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-flowers-1",
@@ -1922,8 +1922,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/flowers1.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/flowers1.png",
-    "thumbPath": "thumbnails/flowers1_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAkABUB8JQBdgCFN3lV0AAD+z8xPGGvXoeA1Kh9fYRZJ35WU3PhOAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fflowers1.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-flowers-2",
@@ -1940,8 +1940,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/flowers2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/flowers2.jpg",
-    "thumbPath": "thumbnails/flowers2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAgCdASoQAAkABUB8JYgCdAEWQJ/JbZn+AAD+P3CE1bxYwNge9iExtoABGGqgi3198TBqe26ZGfAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fflowers2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-forest-1",
@@ -1958,8 +1958,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/forest1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/forest1.jpg",
-    "thumbPath": "thumbnails/forest1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAkABUB8JQBOgCG7UJDAAP7vP19OumJL7JmrpL5qGMh8uAREwAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fforest1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-forest-2",
@@ -1976,8 +1976,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/forest2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/forest2.jpg",
-    "thumbPath": "thumbnails/forest2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAkABUB8JagCdADGps31jAD+6UMtaO1Bvjuw/dvj6dtSxLo5z8FB23AAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fforest2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-forest-3-mononoke",
@@ -1994,8 +1994,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/forest3-mononoke.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/forest3-mononoke.png",
-    "thumbPath": "thumbnails/forest3-mononoke_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAkABUB8JagCdADvyU6LAAD+6jCQsSKvlxnXr10SxzdKSBKhZ7XaLgA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fforest3-mononoke.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-forest-4",
@@ -2012,8 +2012,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/forest4.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/forest4.png",
-    "thumbPath": "thumbnails/forest4_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAoABUB8JZACdADbfNYYAADh/V33W5h+N2m2K3Rzj2GFZNfS2vpvaxqKxImS+XYkm8tb3SRloaPwL7IftAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fforest4.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-forest-landscape",
@@ -2030,8 +2030,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/forest-landscape.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/forest-landscape.jpg",
-    "thumbPath": "thumbnails/forest-landscape_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoQAAwABUB8JZACdIExE72FLLUHqAD9j8Bci1H/+Rcr+vxATs2rQkXIWDaQpTXi5icbRwIL0joUTZOyoef8q/6+tujXV3g82Ioq8W88vfUAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fforest-landscape.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-frozen-shores-burning-sky",
@@ -2048,8 +2048,8 @@
     "format": "JPEG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/frozen-shores-burning-sky.jpeg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/frozen-shores-burning-sky.jpeg",
-    "thumbPath": "thumbnails/frozen-shores-burning-sky_jpeg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAkABUB8JQBdgB4P+KqEWAD+PHVRVug2wsAY3OaUFPMwtoNKDqBIz0QAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ffrozen-shores-burning-sky.jpeg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-geometric-horizons",
@@ -2066,8 +2066,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/geometric-horizons.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/geometric-horizons.png",
-    "thumbPath": "thumbnails/geometric-horizons_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAsABUB8JQBOgBtzDW4AAP7jWiO1W5m8xY7Uz+czJLzZ9rjB9m3lM7N3cgAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fgeometric-horizons.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-glowing-green-dew",
@@ -2084,8 +2084,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/glowing-green-dew.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/glowing-green-dew.jpg",
-    "thumbPath": "thumbnails/glowing-green-dew_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAkABUB8JZgCdIExF1d3pwAA/tHjW/OmSM8HaF8yl+8E0a03eJZ1/Ub3HE3U0GnpaG9xXMR/gspfxAxrAAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fglowing-green-dew.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-golden-horizon",
@@ -2102,8 +2102,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/golden-horizon.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/golden-horizon.jpg",
-    "thumbPath": "thumbnails/golden-horizon_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAkABUB8JbACdAD0Nj1msgAA/sXl0x0g890e3y4Pkjlh0M6uus7LL+GDxC72iyE+MSQAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fgolden-horizon.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-green-sea",
@@ -2120,8 +2120,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/green_sea.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/green_sea.jpg",
-    "thumbPath": "thumbnails/green_sea_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAkABUB8JaACsAEFpcgA/umuBzE9kEshEHran6KTonRzPusHEqnspX+iY1eAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fgreen_sea.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-highlands-grid",
@@ -2138,8 +2138,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/highlands-grid.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/highlands-grid.jpg",
-    "thumbPath": "thumbnails/highlands-grid_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkABUB8JZQAAjU9zDwgAP7y4ls6ToJhFnV1n6XLZwGHFeT/PA5oEwAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fhighlands-grid.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-ireland-hills",
@@ -2156,8 +2156,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/ireland-hills.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/ireland-hills.jpg",
-    "thumbPath": "thumbnails/ireland-hills_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACQAQCdASoQAAkABUB8JZQAAuaDFmAA/tRk3NuSPDnRu40DyeK/zAM5vLwAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fireland-hills.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-italy",
@@ -2174,8 +2174,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/italy.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/italy.png",
-    "thumbPath": "thumbnails/italy_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAgCdASoQAAkABUB8JQBOj+DE/wPPkUAAAP7U+SHoW16fs9B5J/hzeibSO5H+wbnllO30Ms0gAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fitaly.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-jagged-peaks",
@@ -2192,8 +2192,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/jagged-peaks.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/jagged-peaks.jpg",
-    "thumbPath": "thumbnails/jagged-peaks_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JZQCdAEVE/utgAD942jetLJkOEDAVWiBnNgU81aWJK3mLdp05/hxY87AAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fjagged-peaks.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-landscape",
@@ -2210,8 +2210,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/landscape.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/landscape.jpg",
-    "thumbPath": "thumbnails/landscape_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAoABUB8JaACdADz47xCAADeVvLOVi2sRsaQjbZYkqOZIfakZua0lzLr8ZRaRCgAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Flandscape.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-landscape-1",
@@ -2228,8 +2228,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/landscape1.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/landscape1.png",
-    "thumbPath": "thumbnails/landscape1_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAkABUB8JZACdAD6Fa2lHAAA/s3v8iOMIOUmqjNi+vJn2mCxAUtIgGnJBVpQnQHR3LzvgAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Flandscape1.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-landscape-2",
@@ -2246,8 +2246,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/landscape2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/landscape2.jpg",
-    "thumbPath": "thumbnails/landscape2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAQCdASoQAAkABUB8JbAC7ADtfPJwAPv3IMA9k/TLdVBSHLslTTvqGjQbNqkBI04Lz4F3ldJd9lpNkAIqhs8br3AD+5WBE9Vz5bxD+AAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Flandscape2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-landscape-3",
@@ -2264,8 +2264,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/landscape3.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/landscape3.png",
-    "thumbPath": "thumbnails/landscape3_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAkABUB8JYwCw7DR+43SVQAA/qNSsb1h71witTm8Ac80xWkncA5ScuyqIJ24WQwtioIX6JYAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Flandscape3.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-landscape-4-whisper",
@@ -2282,8 +2282,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/landscape4-whisper.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/landscape4-whisper.png",
-    "thumbPath": "thumbnails/landscape4-whisper_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4WAoAAAAQAAAADwAABgAAQUxQSBIAAAABD9D/iAiIBZP8pffFENH/bAFWUDggMgAAALABAJ0BKhAABwAFQHwlsAJ0AMFMbgAA/uMDi/fQcJ+mybi5FInXgy22KiMgk4YiXAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Flandscape4-whisper.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-lofoten-1",
@@ -2300,8 +2300,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/lofoten1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/lofoten1.jpg",
-    "thumbPath": "thumbnails/lofoten1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAkABUB8JZACdAD2LED1TgAA+pylmSPm26c+cZISbXJRq5JMSMa+WYjii/eS58tgu3JKHhCcIlxEPovowAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Flofoten1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-lofoten-2",
@@ -2318,8 +2318,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/lofoten2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/lofoten2.jpg",
-    "thumbPath": "thumbnails/lofoten2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAkABUB8JZACdAEPNIL+6AD+hAOvCTuyEyCePBjCylAmx7dmNFkauk4AAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Flofoten2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-mountain",
@@ -2336,8 +2336,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountain.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain.jpg",
-    "thumbPath": "thumbnails/mountain_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JQBOgBxA1L9AAAD+VeCqIyjnszuIBGYgdLaSnTk0YHpx5X4yBSkdM48AAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountain.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-mountain-lake",
@@ -2354,8 +2354,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountain-lake.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain-lake.jpg",
-    "thumbPath": "thumbnails/mountain-lake_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoQAAkABUB8JZAC7AD8u5Bf9fIAAP7R5mI48GuJS1nLDFr0KD+O3h3+kjkjSShUQNfhxv1OraId5F3sU5wAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountain-lake.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-mountain-landscape",
@@ -2372,8 +2372,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountain-landscape.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain-landscape.jpg",
-    "thumbPath": "thumbnails/mountain-landscape_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAkABUB8JbACdAEfcdMjIRAA/ueQaQSgHtjlmMxUAyzj40ZPnwJSvqQ33puVpGqcIG7mqXZQAAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountain-landscape.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-mountain-range",
@@ -2390,8 +2390,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountain_range.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain_range.jpg",
-    "thumbPath": "thumbnails/mountain_range_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAkABUB8JQBOgB6LZI+AAP37Nd7/gIk4e65FqN58B2EjilxToQ4A"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountain_range.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-mountain-snow-minima",
@@ -2408,8 +2408,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountain-snow-minima.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain-snow-minima.jpg",
-    "thumbPath": "thumbnails/mountain-snow-minima_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAkABUB8JZwAAudC+OEoQAD+69i94fO9Ji/pV32F+coxUeIT+S/IYcrCAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountain-snow-minima.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-mountain-view",
@@ -2426,8 +2426,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountain_view.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain_view.jpg",
-    "thumbPath": "thumbnails/mountain_view_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAsABUB8JYwAAvgehUpMAADh/X6Llenw2lxDfk3yhQpj/L3rdDUoku4UAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountain_view.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-mountain-winter-3",
@@ -2444,8 +2444,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountain-winter3.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain-winter3.jpg",
-    "thumbPath": "thumbnails/mountain-winter3_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQABAABUB8JZgCdAEVSsO6mnQAAPxSkKd0Iz3E63xK//NNw2lkmNmjb1BXyQxtOP4RHY4XGTai46tWXxt0fmAeEG1srvgA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountain-winter3.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-mountain-with-snow",
@@ -2462,8 +2462,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountain-with-snow.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain-with-snow.jpg",
-    "thumbPath": "thumbnails/mountain-with-snow_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAABwAQCdASoQAAsABUB8JZwC7AFAAAD+7wbf1OC14t1+h8mow/W800sAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountain-with-snow.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-mountains-with-sky",
@@ -2480,8 +2480,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountains-with-sky.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountains-with-sky.jpg",
-    "thumbPath": "thumbnails/mountains-with-sky_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JbACdAEO4+hH6AAAze1jDOHo34uIKtmcC8mqcU1PVQsglM3To6GQe8mOPLV5Vl/IGgAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountains-with-sky.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-nature",
@@ -2498,8 +2498,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/nature.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/nature.jpg",
-    "thumbPath": "thumbnails/nature_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JYgC7ADwUBJfsAD+5dr7fpmkOTiqGhkKrYlt1acIQfMhMpUxWLfUfXLAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fnature.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-nature-quiet-masterpiece",
@@ -2516,8 +2516,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/nature-quiet-masterpiece.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/nature-quiet-masterpiece.jpg",
-    "thumbPath": "thumbnails/nature-quiet-masterpiece_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAkABUB8JYgCdH8AGLp6ssoAAP7cv9fH0YIurf5yGwWR/XJMdes93VzWVjKcTp0VHaON4n/LNM8nHeapYAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fnature-quiet-masterpiece.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-natures-mountain-waters",
@@ -2534,8 +2534,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/natures-mountain-waters.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/natures-mountain-waters.jpg",
-    "thumbPath": "thumbnails/natures-mountain-waters_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JYwAAwFV6ettsGAA/k4gFMT5lvWpv251VNPyKlbNyIbZsKls1ubDaYWpZoAKYaxAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fnatures-mountain-waters.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-orange-desert",
@@ -2552,8 +2552,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/orange-desert.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/orange-desert.jpg",
-    "thumbPath": "thumbnails/orange-desert_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkABUB8JbACdADL64lDjDQA/oPdqUDh0PdE3DjbWfYQiPjioxRkszq3eD54t2ZuDQ3pqUYhImeLPyAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Forange-desert.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-peak-in-the-clouds",
@@ -2570,8 +2570,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/peak-in-the-clouds.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/peak-in-the-clouds.jpg",
-    "thumbPath": "thumbnails/peak-in-the-clouds_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAkABUB8JZQAAq9hUJDIAAD7ofrOGWj/jUrL1JezFi209rJA+LbLYK7tajr0UAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fpeak-in-the-clouds.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-sand-dunes",
@@ -2588,8 +2588,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sand-dunes.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sand-dunes.jpg",
-    "thumbPath": "thumbnails/sand-dunes_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAkABUB8JaACdEf/gec66AAA/rxVuYRO6aJxrSWJnxXsJvIe7guAabgJlB3nafet5E7cAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsand-dunes.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-sea-1",
@@ -2606,8 +2606,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sea1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sea1.jpg",
-    "thumbPath": "thumbnails/sea1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAkABUB8JbACdADiXP+o9uAA/ro4l1q+h5Tb7s1CLHiq4eRAEeR9PRbYioeh/kdhBJqX3Q8ohGolwAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsea1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-sea-2-waves",
@@ -2624,8 +2624,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sea2-waves.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sea2-waves.jpg",
-    "thumbPath": "thumbnails/sea2-waves_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAkABUB8JbACdADzmXsAAP7sQ+UQImgnbWnzOWX2SVheCymF0l4SIXd0n6G6fJJ4AA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsea2-waves.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-sky-1",
@@ -2642,8 +2642,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sky1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sky1.jpg",
-    "thumbPath": "thumbnails/sky1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAkABUB8JaACdAEDxvme2AAA/uRcQ2uVb3tYyPBpHICkgRMz9dLMoUrkZUn9axiFpOLRDjfHtpklMPiiwSrDO4AAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsky1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-sky-2",
@@ -2660,8 +2660,8 @@
     "format": "JPEG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sky2.jpeg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sky2.jpeg",
-    "thumbPath": "thumbnails/sky2_jpeg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAkABUB8JbAAAtw3FXAA/uL1N1hZ0x7Ly8C9mdc21Bw4LF0WhT/Q/bL6hxhAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsky2.jpeg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-snowcapped-mountains",
@@ -2678,8 +2678,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/snowcapped-mountains.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/snowcapped-mountains.jpg",
-    "thumbPath": "thumbnails/snowcapped-mountains_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoQAAkABUB8JZQAAui+bGAA/tztAjjEQIP0KeFAv9Q4bZ4lvdGQc8AA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsnowcapped-mountains.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-solitary-peaks",
@@ -2696,8 +2696,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/solitary-peaks.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/solitary-peaks.jpg",
-    "thumbPath": "thumbnails/solitary-peaks_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkABUB8JbACdAEO+eVEQAD+2Lr20wQJTwvarjzUJXpa+yEAVu4h+HDf7oAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsolitary-peaks.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-tree",
@@ -2714,8 +2714,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/tree.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/tree.jpg",
-    "thumbPath": "thumbnails/tree_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAsABUB8JbACdAED9WVbYCgA/jQpj96vfb6PvTu2Dj/noI5ot89YhmHipyOe2c1uY8A/lkkBE14GTAzUm+OLp4A7Q4qXJYR0MjYzDMAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ftree.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "nature-winter-is-here",
@@ -2732,8 +2732,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/winter-is-here.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/winter-is-here.png",
-    "thumbPath": "thumbnails/winter-is-here_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoQAAkABUB8JQBOgBuIC6C3AAD+5pi5ys9ytk3zNa0GTEeLjdjfCcVHxkJeNS49plTf6cskSpq8UoTSAfGqs40AhLeIgAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fwinter-is-here.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-adwaita-l",
@@ -2750,8 +2750,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/adwaita-l.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/adwaita-l.jpg",
-    "thumbPath": "thumbnails/adwaita-l_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQABAABUB8JbACdH8AFN9/uIAA/vERbtWNIQVSRYw9JzB5hj/5V9m8gy1M8v1+aiGLQJWYksAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fadwaita-l.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-ai-machine",
@@ -2768,8 +2768,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/ai-machine.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/ai-machine.png",
-    "thumbPath": "thumbnails/ai-machine_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAkABUB8JZACw7DFNVuIAP7vYyT30w5BSeTnl69psPfAvDbxXqAqegFvTEwobV3EJnhy63nolbIA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fai-machine.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-apple-dark",
@@ -2786,8 +2786,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/apple-dark.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/apple-dark.jpg",
-    "thumbPath": "thumbnails/apple-dark_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQABAABUB8JYgCdAEO//yegAD+7Dpc1ZSjrDc1isR372PkfHvsWgAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fapple-dark.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-apple-light",
@@ -2804,8 +2804,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/apple-light.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/apple-light.jpg",
-    "thumbPath": "thumbnails/apple-light_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQABAABUB8JYgCdAEPRNtZrUqoAOAu508O9QJksgAngGNbmh/Iuuhz04OZ41ElJahX8pD5BBjEAAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fapple-light.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-apple-waves-1",
@@ -2822,8 +2822,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/apple-waves1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/apple-waves1.jpg",
-    "thumbPath": "thumbnails/apple-waves1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQABAABUB8JbACdAD0ZQjauhgA/uRh0GOeePfe42Lq+vqserenKvHQIRZTu4tQf6vAbkCMRcAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fapple-waves1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-arch-1",
@@ -2840,8 +2840,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/arch1.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/arch1.png",
-    "thumbPath": "thumbnails/arch1_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAgABUB8JbACdAEDx5zvPAAA/W93RnplFaIulM0SnVyfyRSiX17nedq2PwphjkkOzTioQO80LAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Farch1.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-arch-2",
@@ -2858,8 +2858,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/arch2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/arch2.jpg",
-    "thumbPath": "thumbnails/arch2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAkABUB8JQBOgCHf6Y8AAP7ujtU1DwsiFhTgW5ERMLvEP4rgAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Farch2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-arch-3",
@@ -2876,8 +2876,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/arch3.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/arch3.jpg",
-    "thumbPath": "thumbnails/arch3_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JbACdADGoFmjAAD+YJVFnYYmrGf90H9QQtx/S/Cv7qx5MtyE+E5LQqwAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Farch3.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-big-sur-6",
@@ -2894,8 +2894,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/big-sur-6.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/big-sur-6.jpg",
-    "thumbPath": "thumbnails/big-sur-6_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAkABUB8JZwAAucMQ9IAAPv/4WgKddus6pmBUtG2VRKtplZgOGywAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fbig-sur-6.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-hyprland",
@@ -2912,8 +2912,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/hyprland.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/hyprland.jpg",
-    "thumbPath": "thumbnails/hyprland_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAABwAQCdASoQAAkABUB8JZQCdAFAAAD+7/tdfhQAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fhyprland.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-kath",
@@ -2930,8 +2930,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/kath.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/kath.jpg",
-    "thumbPath": "thumbnails/kath_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAkABUB8JbACdAD8GIzisAD+7NklMkMvnBtKMbsPJyatKhOYZpBTLWQUCGZIajiF/MGZ4y8EvjQA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fkath.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-miracle-os-light",
@@ -2948,8 +2948,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/miracleOS_light.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/miracleOS_light.jpg",
-    "thumbPath": "thumbnails/miracleOS_light_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoQAAkABUB8JbACdACmQAAAohFzoUxg5alZpAfosD8GIyOW2/051hT9rWWi8wbhC0qAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2FmiracleOS_light.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-mojave-dark-mode",
@@ -2966,8 +2966,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mojave-dark-mode.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mojave-dark-mode.png",
-    "thumbPath": "thumbnails/mojave-dark-mode_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoQAAkABUB8JZQCdAEO98/sAAD+6NHplc7Ot4QftmzdJWJgAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmojave-dark-mode.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "os-branding-nordwall-3",
@@ -2984,8 +2984,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/nordwall3.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/nordwall3.jpg",
-    "thumbPath": "thumbnails/nordwall3_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAkABUB8JYwCdADbOL/oAP7kIGXOUpw1L53juS43++7PzK4HMt0AAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fnordwall3.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-astronaut",
@@ -3002,8 +3002,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/astronaut.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/astronaut.png",
-    "thumbPath": "thumbnails/astronaut_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkABUB8JYwAAuQqyz1YAAD+7oET8CbDo1D6dAloFkc1bBPWC0tbnZf90XzBsAyyAAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fastronaut.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-astronaut-2",
@@ -3020,8 +3020,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/astronaut2.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/astronaut2.png",
-    "thumbPath": "thumbnails/astronaut2_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkABUB8JQBOgBjsajNLQAD+4wQ/TiOguIw+cp+3uoDrI+SMQxhVYLqSM5S7btmld5wA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fastronaut2.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-astronaut-jellyfish",
@@ -3038,8 +3038,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/astronaut_jellyfish.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/astronaut_jellyfish.jpg",
-    "thumbPath": "thumbnails/astronaut_jellyfish_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAABwAQCdASoQAAkABUB8JZwCw7FAAAD+78FOW3t9LBq2s3pAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fastronaut_jellyfish.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-black-whole",
@@ -3056,8 +3056,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/black-whole.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/black-whole.jpg",
-    "thumbPath": "thumbnails/black-whole_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoQAAkABUB8JYgCdH8AglyEDPFIAAD+72QAKk8eCcTFhs0PiZGC6938su7rmAbeuTONFvWJWNF1exyj2AMsF5oaQ9ocxSIAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fblack-whole.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-black-whole-2",
@@ -3074,8 +3074,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/black-whole2.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/black-whole2.png",
-    "thumbPath": "thumbnails/black-whole2_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JYgCsADiViuesAD+6/83JOgB41wddgxhEtx+Z1GPgAYcFJ4s6cibDQOAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fblack-whole2.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-blackhole",
@@ -3092,8 +3092,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/blackhole.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/blackhole.jpg",
-    "thumbPath": "thumbnails/blackhole_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAkABUB8JZwAAudlYluWAP7yq6VkKTu4QxAlEkHHJ1W1hAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fblackhole.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-calder-moore-aliencrack-01-copy",
@@ -3110,8 +3110,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/calder-moore-aliencrack-01-copy.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/calder-moore-aliencrack-01-copy.jpg",
-    "thumbPath": "thumbnails/calder-moore-aliencrack-01-copy_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAkABUB8JZACdADGptSiEAD+6/9ETa69nIFbGjWgcA2vlbalttQD2S86U40gAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcalder-moore-aliencrack-01-copy.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-car-on-mars",
@@ -3128,8 +3128,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/car_on_mars.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/car_on_mars.jpg",
-    "thumbPath": "thumbnails/car_on_mars_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoQAAkABUB8JbACdACs6WmgAPItJaYa/pUM7BzCkEwWUW7BQd17WeagIcdKYncdS8Y2XKRiNSemuDYhmhAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcar_on_mars.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-city-sundown",
@@ -3146,8 +3146,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/city-sundown.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/city-sundown.png",
-    "thumbPath": "thumbnails/city-sundown_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkABUB8JQBOgBj1Ubop4AD+6/j6cI6qzw4BjONoClr37oWVuhEgCJpmAAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcity-sundown.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-comet",
@@ -3164,8 +3164,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/comet.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/comet.jpg",
-    "thumbPath": "thumbnails/comet_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAkABUB8JZACdAEKzrhJSAAA/sVSb1FvE4PkSxwhCGFBlyMVmZ01dJ/PhkrdV5pKAAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcomet.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-cool-astronaut",
@@ -3182,8 +3182,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/cool-astronaut.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/cool-astronaut.jpg",
-    "thumbPath": "thumbnails/cool-astronaut_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAkABUB8JbACdAClEi4KAAD+0ckcoKy4DH5eSg8K4Cf5aVGAOpvHmclxgcQFRXd3i7S+roLXasSdSKxvYAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fcool-astronaut.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-dark-star",
@@ -3200,8 +3200,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/dark-star.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/dark-star.jpg",
-    "thumbPath": "thumbnails/dark-star_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACQAQCdASoQAAkABUB8JYwAAiG2eiAA/u9L3h6Yv5wmj+Vaqc99CgAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fdark-star.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-deer-and-sunset",
@@ -3218,8 +3218,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/deer_and_sunset.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/deer_and_sunset.jpg",
-    "thumbPath": "thumbnails/deer_and_sunset_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAQAgCdASoQAAYABUB8JYgCdADhhloLvm1IAP7Q3YjnxwbGJqNye9b7mBvwRS0yPsegAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fdeer_and_sunset.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-desert-red-sun",
@@ -3236,8 +3236,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/desert-red-sun.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/desert-red-sun.jpg",
-    "thumbPath": "thumbnails/desert-red-sun_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACQAQCdASoQAAkABUB8JaQAAehzUAAAqMHr5zcFzIwDbLK7AAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fdesert-red-sun.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-desert-with-mountains-moon",
@@ -3254,8 +3254,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/Desert-With-Mountains-Moon.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/Desert-With-Mountains-Moon.jpg",
-    "thumbPath": "thumbnails/Desert-With-Mountains-Moon_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADwAQCdASoQAAkABUB8JZACdAEOwV1wFAAA/nYRqt+I/deLIvCADcfAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2FDesert-With-Mountains-Moon.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-dunes-sun",
@@ -3272,8 +3272,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/dunes-sun.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/dunes-sun.jpg",
-    "thumbPath": "thumbnails/dunes-sun_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JagCdAD0dssZwAD+cWjEpM3+HklI4G57la58AzHBNaVHiHiILYeLYWQAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fdunes-sun.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-earth-from-moon",
@@ -3290,8 +3290,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/earth-from-moon.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/earth-from-moon.jpg",
-    "thumbPath": "thumbnails/earth-from-moon_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAkABUB8JQBdgBuyO43BAAD+9DIpoKB6Xjurk1Ts9XOo+vVCMsZVLH+0p8KARc5oB0YAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fearth-from-moon.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-expanse",
@@ -3308,8 +3308,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/expanse.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/expanse.jpg",
-    "thumbPath": "thumbnails/expanse_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAkABUB8JZQAAscCtKEAAP7s2TutXfBPyxfY+1UK3xYOSZJNsDJDoFXweKnVY5U9dtZCBFowEAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fexpanse.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-explorer-orange-sunset",
@@ -3326,8 +3326,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/explorer_orange_sunset.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/explorer_orange_sunset.jpg",
-    "thumbPath": "thumbnails/explorer_orange_sunset_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAoABUB8JbACdAC2c7gAAP6yMjTrQnKKqDcwgIhl+0H7V6kSjXLxeC6rb0a6sAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fexplorer_orange_sunset.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-fiery-sunset-reflection",
@@ -3344,8 +3344,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/fiery-sunset-reflection.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/fiery-sunset-reflection.jpg",
-    "thumbPath": "thumbnails/fiery-sunset-reflection_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAAkABUB8JbACdADuXgJgAM3qs3to1rk++BxnQ6fYUyDyrybm9Hb/IiY5d5Y3IawVjryPBFs21AC+d+i8ARAAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Ffiery-sunset-reflection.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-lion-galaxy-purple",
@@ -3362,8 +3362,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/lion_galaxy_purple.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/lion_galaxy_purple.jpg",
-    "thumbPath": "thumbnails/lion_galaxy_purple_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAoABUB8JZACdADwLeDtOAD+0MKSU+2PnEbAYhlLG28ZNGsbvOR2GprSXsAAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Flion_galaxy_purple.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-lofoten-sundown",
@@ -3380,8 +3380,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/lofoten-sundown.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/lofoten-sundown.jpg",
-    "thumbPath": "thumbnails/lofoten-sundown_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkABUB8JaACdAENY9QYnHAA/sBisyISQUPbahFPoyhG0zsuv8Co0NEmzPELSWPEPpWyAUkoK4y8GghgAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Flofoten-sundown.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-midnight-reflections-moonlit-sea",
@@ -3398,8 +3398,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/midnight-reflections-moonlit-sea.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/midnight-reflections-moonlit-sea.jpg",
-    "thumbPath": "thumbnails/midnight-reflections-moonlit-sea_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAkABUB8JZACdAEUfHAlvAAA/uW+BkGA3REFUCEWHbTxJyNIO2aS2+6RJVCC/HWQBAJHM5LAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmidnight-reflections-moonlit-sea.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-moonlight",
@@ -3416,8 +3416,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/moonlight.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/moonlight.jpg",
-    "thumbPath": "thumbnails/moonlight_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JQBOgCBj3wT1gAD+7EPmYUKu7r53XJhyOu69NqRhMVxHKYQHFINPUf0AAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmoonlight.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-mountain-range-during-sunrise",
@@ -3434,8 +3434,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountain-range-during-sunrise.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain-range-during-sunrise.jpg",
-    "thumbPath": "thumbnails/mountain-range-during-sunrise_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAkABUB8JQBdgB6JudtUAAD+6QY0akTu/4ftfca4971H3OADwko2KOAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountain-range-during-sunrise.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-mountain-sunrise",
@@ -3452,8 +3452,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountain-sunrise.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain-sunrise.jpg",
-    "thumbPath": "thumbnails/mountain-sunrise_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAkABUB8JaACdAD1bxczAeAA/rQpENU9fYJKxZSYf9ngGRbYWXAS/qNssSLMiCeUv+WAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountain-sunrise.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-mountain-winter-sun",
@@ -3470,8 +3470,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/mountain-winter-sun.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain-winter-sun.jpg",
-    "thumbPath": "thumbnails/mountain-winter-sun_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAkABUB8JaACdAEQElsX/AAA/dvfm8n4/zFTfJe0gwFtaGrTRuz65m2bnES+hqAJXVVrRU4AAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmountain-winter-sun.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-muscle-car-ice-road-red-moon",
@@ -3488,8 +3488,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/muscle-car-ice-road-red-moon.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/muscle-car-ice-road-red-moon.jpg",
-    "thumbPath": "thumbnails/muscle-car-ice-road-red-moon_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAkABUB8JbACdADccVoAAPa3wdZHr8YMA2ej+GE4yPj1mW9Q7U+4j04m0FtpfgA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fmuscle-car-ice-road-red-moon.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-room-1-sunset",
@@ -3506,8 +3506,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/room1-sunset.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/room1-sunset.png",
-    "thumbPath": "thumbnails/room1-sunset_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAkABUB8JagCdADcxwAAAP7vYdFxy8VSMvNJCtcD3j3ZUVLZQzbRb/UVA8cIAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Froom1-sunset.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-space-1",
@@ -3524,8 +3524,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/space1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/space1.jpg",
-    "thumbPath": "thumbnails/space1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAkABUB8JbACdAEO+xIAQAD+6/heyO5dC2ww3REifUgdkJTeSZMErhfsj8c5383k+Mo9uAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspace1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-space-2",
@@ -3542,8 +3542,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/space2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/space2.jpg",
-    "thumbPath": "thumbnails/space2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAkABUB8JZgCdACqn9xAAP7u3NywbejX+7HzZV39C8XKfPg3t0/RXi63Q/D9lv9TDMwhq0b22QAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspace2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-space-3",
@@ -3560,8 +3560,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/space3.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/space3.jpg",
-    "thumbPath": "thumbnails/space3_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAkABUB8JYgCdAEUTZChYqQAAP7uy2K/zMJE9o5t5n3q0crzMHkiOys9a7KojqrFe+IxEU2YO94spV2d3147he1l6njncQGAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspace3.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-space-age-adventures",
@@ -3578,8 +3578,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/space-age-adventures.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/space-age-adventures.png",
-    "thumbPath": "thumbnails/space-age-adventures_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAkABUB8JbACdAEfa8Q489gAAP7N5KFvtuQMwEJ614MuJ71q5G/6bT5fPeQcWU+fTadrQAAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspace-age-adventures.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-space-bullet",
@@ -3596,8 +3596,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/space-bullet.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/space-bullet.jpg",
-    "thumbPath": "thumbnails/space-bullet_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAkABUB8JbACdAC4OheQAAD93kaT6upkPOW7YX+gjhPiGneI8rrxjJroBXU87ItPW2s9yNEtCPAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspace-bullet.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-space-city",
@@ -3614,8 +3614,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/space-city.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/space-city.jpg",
-    "thumbPath": "thumbnails/space-city_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkABUB8JbACdAEOeuwd4AD+2kFNylIFzry3bB4G+qOUUtM5vfHiseUuwAAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspace-city.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-space-nebula",
@@ -3632,8 +3632,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/Space-Nebula.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/Space-Nebula.png",
-    "thumbPath": "thumbnails/Space-Nebula_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAAkABUB8JbACdAC5G02AAP6sBfKV74eMo7XCu0dZH1QyPeOfJwi0gobtBPb26yXL+3AA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2FSpace-Nebula.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-space-with-ships",
@@ -3650,8 +3650,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/space-with-ships.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/space-with-ships.png",
-    "thumbPath": "thumbnails/space-with-ships_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkABUB8JbACdAD7J7YQTAAA/qvfqEZBQ1+yGicfyZiitmmau4UkxE+nzHWDcfyHYaq/61e/CfNNTQAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspace-with-ships.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-spaceship-1",
@@ -3668,8 +3668,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/spaceship1.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/spaceship1.jpg",
-    "thumbPath": "thumbnails/spaceship1_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAkABUB8JZACdAEHN6DLAAD+eAyRWseWdeRntxN+voKWG8rHs1Vn1pdg2WBcAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspaceship1.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-spaceship-2",
@@ -3686,8 +3686,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/spaceship2.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/spaceship2.jpg",
-    "thumbPath": "thumbnails/spaceship2_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoQAAkABUB8JYgAAcN95mAA/R/I7GM9fL8AJjqVU7eq7XDK1l9snemAxQAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspaceship2.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-spaceship-start",
@@ -3704,8 +3704,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/spaceship-start.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/spaceship-start.jpg",
-    "thumbPath": "thumbnails/spaceship-start_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkABUB8JbACdAEfwAJLcgAA/r+DtYwFyVB/dlMk2zPXoGpsitWhGEBqpeqKeaRBoC7lmcETJ7s7P/WAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspaceship-start.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-spaceshuttle",
@@ -3722,8 +3722,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/spaceshuttle.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/spaceshuttle.png",
-    "thumbPath": "thumbnails/spaceshuttle_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAkABUB8JbACdAEf5jbafWOgAN9I3XlU/YbfzkFRos2TRpc5I76PzjhnkIIkVhVxkpn9xCM34/yEgAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fspaceshuttle.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-stars-as-minimal",
@@ -3740,8 +3740,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/stars-as-minimal.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/stars-as-minimal.jpg",
-    "thumbPath": "thumbnails/stars-as-minimal_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRiYAAABXRUJQVlA4IBoAAAAwAQCdASoQAAoABUB8JYwAA3AA/vBTAW0CAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fstars-as-minimal.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-sundown-mountain",
@@ -3758,8 +3758,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sundown_mountain.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sundown_mountain.jpg",
-    "thumbPath": "thumbnails/sundown_mountain_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAkABUB8JbACdADcSmepAAD88M4h5RuJ6GZfTcIu8J0wn0u5rRM67vUseTV5A756TmBTlhVwul6x6pfgAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsundown_mountain.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-sunset-01",
@@ -3776,8 +3776,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sunset-01.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sunset-01.png",
-    "thumbPath": "thumbnails/sunset-01_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAkABUB8JZACdAD7j1rn3bEQAP7kRnJ/uacUkTlZZ58Ilfs05wCBIBh58FLzIzO7yUAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsunset-01.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-sunset-10",
@@ -3794,8 +3794,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sunset-10.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sunset-10.jpg",
-    "thumbPath": "thumbnails/sunset-10_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkABUB8JZQAAsRBi24AAP7w7KbU1DH+nxcHmXJRpHy/GUMiVhryvAgAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsunset-10.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-sunset-drive-forest",
@@ -3812,8 +3812,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sunset-drive-forest.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sunset-drive-forest.jpg",
-    "thumbPath": "thumbnails/sunset-drive-forest_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JQBOgCB0a7fWAAD+6cc6A1Lv/Ux88taqX8vWA+hkRyl6MuCpwsAYTPAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsunset-drive-forest.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-sunset-in-thick-forest",
@@ -3830,8 +3830,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sunset-in-thick-forest.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sunset-in-thick-forest.jpg",
-    "thumbPath": "thumbnails/sunset-in-thick-forest_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAkABUB8JZQAAloKqPHgAP7w3vede8Xp5GOiAwI0BOawDwo+QewAAAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsunset-in-thick-forest.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-sunset-layers",
@@ -3848,8 +3848,8 @@
     "format": "PNG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sunset_layers.png",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sunset_layers.png",
-    "thumbPath": "thumbnails/sunset_layers_png.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAkABUB8JbACdLoAAreAWgAA/lP4sM3vgBlvhf+K6tQ6/n6mTYQYawAAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsunset_layers.png&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-sunset-lookout",
@@ -3866,8 +3866,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sunset-lookout.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sunset-lookout.jpg",
-    "thumbPath": "thumbnails/sunset-lookout_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAkABUB8JbACdAEU8yqMNAD+eEQ92kwoIE+bD85fAHe/vqPJweYxLJJk2+cIuAA="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsunset-lookout.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-sunset-mountain-beautiful",
@@ -3884,8 +3884,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sunset-mountain-beautiful.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sunset-mountain-beautiful.jpg",
-    "thumbPath": "thumbnails/sunset-mountain-beautiful_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAkABUB8JbACdAEQEoGSpAAA/trGebtBxbCZk1B67khnUh9IH7ouuBzhvOCkQlf19IzH0S3DnkUHQ3YPa6FEgh4AAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsunset-mountain-beautiful.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-sunset-scenery-minimalist",
@@ -3902,8 +3902,8 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/sunset-scenery-minimalist.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sunset-scenery-minimalist.jpg",
-    "thumbPath": "thumbnails/sunset-scenery-minimalist_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQAAkABUB8JagCdEf/gfd7SrsIAP65ynOhJ14tKDLLcRQflvCpuZ0U5Hfa2NU8Few8yUz/RoSupwAA"
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fsunset-scenery-minimalist.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   },
   {
     "id": "space-vulcan",
@@ -3920,7 +3920,7 @@
     "format": "JPG",
     "cdnUrl": "https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/vulcan.jpg",
     "cdnFallbackUrl": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/vulcan.jpg",
-    "thumbPath": "thumbnails/vulcan_jpg.webp",
-    "blurDataUrl": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAADQAQCdASoQAAkABUB8JYwCdAD0ZtT7gAD+olgmensidyo+T8UAAA=="
+    "thumbUrl": "https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylinuxforwork%2Fwallpaper%2Fmain%2Fvulcan.jpg&w=640&output=webp",
+    "blurDataUrl": ""
   }
 ]
