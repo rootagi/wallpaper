@@ -4,7 +4,6 @@ import sharp from 'sharp';
 
 const SOURCE_DIR = process.cwd();
 const PUBLIC_DIR = path.join(SOURCE_DIR, 'public');
-const THUMBS_DIR = path.join(PUBLIC_DIR, 'thumbnails');
 const MANIFEST_PATH = path.join(PUBLIC_DIR, 'manifest.json');
 
 // Keyword-based category classification heuristics
@@ -142,7 +141,7 @@ async function processImage(fullPath) {
   const title = formatTitle(filename);
   const id = slugify(`${category}-${title}`);
 
-  // Use sharp to get metadata
+  // Use sharp to get metadata fast (no heavy thumbnail generation)
   const image = sharp(fullPath);
   const metadata = await image.metadata();
   const width = metadata.width || 1920;
@@ -150,36 +149,17 @@ async function processImage(fullPath) {
   const aspectRatio = parseFloat((width / height).toFixed(3));
   const orientation = getOrientation(width, height);
 
-  // Safe thumbnail filename (flat inside public/thumbnails)
-  const safeName = filename.replace(/[/\\.]/g, '_') + '.webp';
-  const thumbFilePath = path.join(THUMBS_DIR, safeName);
-  const thumbRelPath = `thumbnails/${safeName}`;
-
-  await image
-    .clone()
-    .resize({
-      width: 640,
-      height: 640,
-      fit: 'inside',
-      withoutEnlargement: true
-    })
-    .toFormat('webp', { quality: 82 })
-    .toFile(thumbFilePath);
-
-  // Generate tiny blur placeholder (16px wide base64 data url)
-  const blurBuffer = await image
-    .clone()
-    .resize(16, 16, { fit: 'inside' })
-    .toFormat('webp', { quality: 20 })
-    .toBuffer();
-
-  const blurDataUrl = `data:image/webp;base64,${blurBuffer.toString('base64')}`;
-
   const format = path.extname(filename).replace('.', '').toUpperCase();
 
-  // FLAT CDN URL matching original remote repo sitting flat in root
+  // Raw GitHub source URL
+  const rawUrl = `https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/${filename}`;
+
+  // 0MB Local Storage: On-the-fly Cloudflare CDN WebP thumbnail resizer (wsrv.nl)
+  const thumbUrl = `https://wsrv.nl/?url=${encodeURIComponent(rawUrl)}&w=640&output=webp`;
+
+  // Original CDN URL
   const cdnUrl = `https://cdn.jsdelivr.net/gh/mylinuxforwork/wallpaper@main/${filename}`;
-  const cdnFallbackUrl = `https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/${filename}`;
+  const cdnFallbackUrl = rawUrl;
 
   return {
     id,
@@ -196,30 +176,21 @@ async function processImage(fullPath) {
     format,
     cdnUrl,
     cdnFallbackUrl,
-    thumbPath: thumbRelPath,
-    blurDataUrl
+    thumbUrl,
+    blurDataUrl: ''
   };
 }
 
 async function main() {
-  console.log('🚀 Starting manifest & thumbnail generation (Flat Upstream Structure)...');
+  console.log('🚀 Generating manifest (0MB Local Storage Mode with wsrv.nl CDN resizer)...');
   const startTime = Date.now();
 
   await fs.promises.mkdir(PUBLIC_DIR, { recursive: true });
-  await fs.promises.mkdir(THUMBS_DIR, { recursive: true });
 
   const images = await findImages(SOURCE_DIR);
-  console.log(`Found ${images.length} images. Processing...`);
+  console.log(`Found ${images.length} images. Processing metadata...`);
 
-  const BATCH_SIZE = 15;
-  const manifestData = [];
-
-  for (let i = 0; i < images.length; i += BATCH_SIZE) {
-    const batch = images.slice(i, i + BATCH_SIZE);
-    const results = await Promise.all(batch.map(processImage));
-    manifestData.push(...results);
-    console.log(`Processed ${Math.min(i + BATCH_SIZE, images.length)} / ${images.length}`);
-  }
+  const manifestData = await Promise.all(images.map(processImage));
 
   // Sort by category then title
   manifestData.sort((a, b) => {
@@ -232,7 +203,7 @@ async function main() {
   await fs.promises.writeFile(MANIFEST_PATH, JSON.stringify(manifestData, null, 2));
 
   const duration = ((Date.now() - startTime) / 1000).toFixed(2);
-  console.log(`✅ Done! Generated ${manifestData.length} thumbnails and manifest.json in ${duration}s.`);
+  console.log(`✅ Done! Created manifest.json in ${duration}s with 0MB thumbnail build storage!`);
 }
 
 main().catch(err => {
